@@ -390,7 +390,11 @@
 "Assets/PostProcessing/Runtime/Utils/MaterialFactory.cs"
 "Assets/PostProcessing/Runtime/Utils/RenderTextureFactory.cs"
 "Assets/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
+"Assets/Scripts/Back.cs"
+"Assets/Scripts/Exit.cs"
+"Assets/Scripts/LoadGame.cs"
 "Assets/Scripts/NewGame.cs"
+"Assets/Scripts/Option.cs"
 -langversion:9.0
 
 /deterministic
